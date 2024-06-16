@@ -1,0 +1,3 @@
+2023-09-17 22:07:43,376 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-09-17 22:09:37,063 [Worker-12: https://download.eclipse.org/jetty/updates/jetty-wtp/compositeContent.xml] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://archive.eclipse.org:443
+2023-09-17 22:09:37,063 [Worker-16: https://download.oracle.com/otn_software/oepe/12.2.1.10/photon/repository/content.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.oracle.com:443
